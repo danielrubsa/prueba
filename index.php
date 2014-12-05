@@ -11,9 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo ("hola mundaco");
-         echo ("que paixa!!");
-        //test
+        // test por grupo de un repositorio git
+            echo ("HOLA MUNDO");
+     
         ?>
     </body>
 </html>
