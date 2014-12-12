@@ -9,7 +9,7 @@
         <?php
         // test por grupo de un repositorio git
             echo ("HOLA MUNDO");
-             echo ("segundo commit Eliezer");
+             echo (" commit Eliezer");
 
      
         ?>
