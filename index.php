@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         // test por grupo de un repositorio git
             echo ("HOLA MUNDO");
-             echo (" commit Eliezer");
+             echo ("primer archivo commit Eliezer");
 
      
         ?>
